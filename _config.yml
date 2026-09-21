@@ -1,3 +1,41 @@
-title: Wildflowers of Konkan
-description: A small photographic field guide of the flowers I encounter along the Konkan coast.
-theme: jekyll-theme-minimal
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Wildflowers of Konkan</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Wildflowers <em>of Konkan</em></h1>
+
+    <p>
+        A small photographic field guide to the flowers
+        encountered along the Konkan coast.
+    </p>
+</header>
+
+
+<main>
+
+    <section id="collection">
+
+        <h2>Field Records</h2>
+
+        <div id="flower-grid"></div>
+
+    </section>
+
+</main>
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
